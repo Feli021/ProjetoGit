@@ -4,3 +4,5 @@ Aqui podemos colocar anotações, informações, instruções, tudo aquilo que n
 Iremos aprender a usar o Git
 
 Abra o gitbash dentro da sua pasta do projeto
+
+Isso é uma alteração
